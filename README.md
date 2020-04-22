@@ -1,6 +1,9 @@
 # MineableSpawners
 This plugin allows players to mine and drop spawners, receive them via command and more!​
 
+## Fork information
+
+This is a fork of the original MineableSpawners. There is very little difference. Only, this fork does not spam your console with all available mob types when the plugin starts up.
 
 ## Current features:
 
